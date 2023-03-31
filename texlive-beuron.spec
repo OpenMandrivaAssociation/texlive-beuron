@@ -1,6 +1,6 @@
 Name:		texlive-beuron
 Version:	46374
-Release:	1
+Release:	2
 Summary:	The script of the Beuronese art school
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beuron
