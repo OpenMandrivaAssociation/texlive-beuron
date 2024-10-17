@@ -3,7 +3,7 @@ Version:	46374
 Release:	2
 Summary:	The script of the Beuronese art school
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beuron
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beuron
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beuron.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beuron.doc.r%{version}.tar.xz
